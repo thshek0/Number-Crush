@@ -1,2 +1,0 @@
-Errors occur in codes! Please check if somethings go wrong!
- The error code is -9!
